@@ -1,6 +1,6 @@
 locals {
 
-  project_id = "groovy-height-400408"
+  project_id = "playground-s-11-bf65dbfc"
 
 }
 
